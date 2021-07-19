@@ -2,10 +2,7 @@ from types import new_class
 from flask import Flask, render_template, redirect
 from flask_pymongo import PyMongo
 from bs4 import BeautifulSoup
-
-
 app = Flask(__name__)
-
 # Use flask_pymongo to set up mongo connection
 app.config["MONGO_URI"] = "mongodb://localhost:27017/mars_app"
 mongo = PyMongo(app)
@@ -26,7 +23,7 @@ def index():
     scraped_hemisphere_schiaparelli = scraped_data_from_db['hemisphere'][1]['image_url']
     scraped_hemisphere_syrtis = scraped_data_from_db['hemisphere'][2]['image_url']
     scraped_hemisphere_valles = scraped_data_from_db['hemisphere'][3]['image_url']
-    
+
     return render_template("index.html", scraped_info=scraped_data_from_db,
     scraped_headline = scraped_headline, scraped_paragraph = scraped_paragraph,
     scraped_featured_image = scraped_featured_image,
