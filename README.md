@@ -1,4 +1,4 @@
-# Web_Scraping_Hhallenge
+# Web_Scraping_Challenge
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
