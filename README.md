@@ -16,16 +16,16 @@ Project is created with:
 	
 ## Information
 To visit the Mars Hemisphere's photos please click the following:
-![Valles Marineris Hemisphere](https://marshemispheres.com/valles.html)
-![Cerberus Hemisphere](https://marshemispheres.com/cerberus.html)
-![Schiaparelli Hemisphere](https://marshemispheres.com/schiaparelli.html)
-![Syrtis Major Hemisphere]
-(https://marshemispheres.com/syrtis.html)
+(![cerberus](https://user-images.githubusercontent.com/81319622/126795514-eec5f6cf-7e16-433e-9b70-3414368e3434.png))
+(https://marshemispheres.com/cerberus.html)
+![schiaparelli](https://user-images.githubusercontent.com/81319622/126795554-64efa679-2b5b-4a64-b300-15ca442a315a.png)
+![syrtis_major](https://user-images.githubusercontent.com/81319622/126795722-d547fd7e-9dde-41ea-9bf2-003fe161d044.png)
+![valles_marineris](https://user-images.githubusercontent.com/81319622/126795736-92abe144-dc86-4895-ac95-051d20081e6a.png)
+
+
+
 
 
 
 	
-## Multi Year Stock Data
-![Stock 2014](Stock_Analysis_Screenshots/Stock_Analysis_2014.png)
-![Stock 2015](Stock_Analysis_Screenshots/Stock_Analysis_2015.png)
-![Stock 2016](Stock_Analysis_Screenshots/Stock_Analysis_2016.png)
+
